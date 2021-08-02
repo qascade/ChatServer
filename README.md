@@ -10,3 +10,9 @@ It would follow the following commands.
 - `/groups` : show the list of groups that are currently active in the server.
 - `/msg <msg>` : to broadcast a message to everyone in the room.
 - `/quit` : to quit out of the chat server.
+
+# Demo
+
+![Server Output](../Demo/Server)
+![Client1](../Demo/Client1)
+![Client2](../Demo/Client2)

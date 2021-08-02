@@ -1,13 +1,9 @@
 package main
 
-import(
-	"fmt"
-)
 type commandID int
 
 const(
-	_ = iota
-	USRNAME_CMD  
+	USRNAME_CMD commandID = iota
 	JOIN_CMD
 	GROUPS_CMD
 	MSG_CMD
