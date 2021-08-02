@@ -1,6 +1,6 @@
 # A simple Chat Server in go.
 
-This is a simple TCP chat server I implemented in golang.
+This is a simple TCP chat server, that I implemented in golang.
 
 It would follow the following commands.
 
