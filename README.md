@@ -2,6 +2,9 @@
 
 This is a simple TCP chat server, that I implemented in golang.
 
+To connect to the server use: 
+`telnet localhost 8888` 
+
 It would follow the following commands.
 
 
