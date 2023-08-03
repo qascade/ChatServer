@@ -16,6 +16,11 @@ It would follow the following commands.
 
 # Demo
 
-![Server Output](../Demo/Server)
-![Client1](../Demo/Client1)
-![Client2](../Demo/Client2)
+### Server Image
+<img width="1246" alt="Server " src="https://github.com/qascade/ChatServer/assets/54154054/f0974a1c-4ccb-4fd7-ad3e-542a021902e6">
+
+### Client 1
+<img width="729" alt="Client1" src="https://github.com/qascade/ChatServer/assets/54154054/390783a5-cb15-463e-989d-935f03659487">
+
+### Client 2
+<img width="885" alt="Client2" src="https://github.com/qascade/ChatServer/assets/54154054/4a269375-e75d-43a7-b53b-bbb0d0bec8d2">
